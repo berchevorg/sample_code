@@ -8,7 +8,7 @@ resource "null_resource" "sleep" {
 }
 
 resource "random_pet" "name1" {
- length    = "91"
+ length    = "991"
  separator = "-"
 }
 
